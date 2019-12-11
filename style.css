@@ -96,6 +96,7 @@ img {
   max-width: 450px;
   max-height: 400px;
 }
-.figure-img {
+.col-md-12 img {
+ text-align: center;
  float: center;
 }
