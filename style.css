@@ -3,7 +3,7 @@
 .title-section {
  font-family: 'PT Sans', sans-serif;
  font-size: 20px;
- margin-bottom: 20px;
+ margin-bottom: 40px;
 }
 
 .title-section h5{
@@ -17,7 +17,7 @@
 
 .main-section h3 {
  font-family: 'Roboto Condensed', sans-serif;
- font-size: 26px;
+ font-size: 30px;
  margin: 40px;
 }
 
@@ -78,13 +78,14 @@ a:hover, a:active, a:focus {
 }
 
 h3 {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 30px;
 }
 
 img {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .col-md-6 img {
