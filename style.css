@@ -96,3 +96,6 @@ img {
   max-width: 450px;
   max-height: 400px;
 }
+.figure-img {
+ float: center;
+}
